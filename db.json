@@ -28,15 +28,19 @@
   "tipos": [
     {
       "id": 1,
-      "nome": "terrestre"
+      "nome": "Terreste"
     },
     {
       "id": 2,
-      "nome": "aereo"
+      "nome": "Aéreo"
     },
     {
       "id": 3,
-      "nome": "maritimo"
+      "nome": "Marítimo"
+    },
+    {
+      "id": 4,
+      "nome": "Lunar"
     }
   ],
   "veiculos": [
@@ -69,7 +73,7 @@
     },
     {
       "nome": "He 177 A-5",
-      "classe": "Bomber",
+      "classe": "Bomber sdfsdf",
       "tripulacao": 6,
       "peso": "19.1 T",
       "mainGun": "20 mm MG 151 cannon",
@@ -82,7 +86,7 @@
       "tripulacao": 1,
       "peso": "2.5 T",
       "mainGun": "20 mm MG 151 cannon",
-      "tipo": 2,
+      "tipo": "4",
       "id": 5
     },
     {
@@ -120,6 +124,15 @@
       "mainGun": "40 mm MEL58 mounting",
       "tipo": 3,
       "id": 9
+    },
+    {
+      "tipo": "3",
+      "nome": "dfgdfg",
+      "classe": "dfgdfg",
+      "mainGun": "dfgdf",
+      "peso": "dfgdf",
+      "tripulacao": "dfgdfg",
+      "id": 10
     }
   ]
 }
