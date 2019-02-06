@@ -50,7 +50,7 @@
       "tripulacao": 5,
       "peso": "22.7 T",
       "mainGun": "75 mm KwK40 L43 cannon",
-      "tipo": 1,
+      "tipoId": 1,
       "id": 1
     },
     {
@@ -59,7 +59,7 @@
       "tripulacao": 6,
       "peso": "188.0 T",
       "mainGun": "128 mm KwK44 cannon",
-      "tipo": 1,
+      "tipoId": 1,
       "id": 2
     },
     {
@@ -68,7 +68,7 @@
       "tripulacao": 3,
       "peso": "9.1 T",
       "mainGun": "20 mm KwK30 cannon",
-      "tipo": 1,
+      "tipoId": 1,
       "id": 3
     },
     {
@@ -77,7 +77,7 @@
       "tripulacao": 6,
       "peso": "19.1 T",
       "mainGun": "20 mm MG 151 cannon",
-      "tipo": 2,
+      "tipoId": 2,
       "id": 4
     },
     {
@@ -86,7 +86,7 @@
       "tripulacao": 1,
       "peso": "2.5 T",
       "mainGun": "20 mm MG 151 cannon",
-      "tipo": "4",
+      "tipoId": "4",
       "id": 5
     },
     {
@@ -95,7 +95,7 @@
       "tripulacao": 1,
       "peso": "4.2 T",
       "mainGun": "30 mm MK 108 cannon",
-      "tipo": 2,
+      "tipoId": 2,
       "id": 6
     },
     {
@@ -104,7 +104,7 @@
       "tripulacao": 582,
       "peso": "272 T",
       "mainGun": "15cm/48 KC/36 cannon",
-      "tipo": 3,
+      "tipoId": 3,
       "id": 7
     },
     {
@@ -113,7 +113,7 @@
       "tripulacao": 184,
       "peso": "210 T",
       "mainGun": "2 x 120 mm L45 cannon",
-      "tipo": 3,
+      "tipoId": 3,
       "id": 8
     },
     {
@@ -122,11 +122,11 @@
       "tripulacao": 39,
       "peso": "80 T",
       "mainGun": "40 mm MEL58 mounting",
-      "tipo": 3,
+      "tipoId": 3,
       "id": 9
     },
     {
-      "tipo": "3",
+      "tipoId": "3",
       "nome": "dfgdfg",
       "classe": "dfgdfg",
       "mainGun": "dfgdf",
